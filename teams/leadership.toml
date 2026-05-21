@@ -8,7 +8,7 @@ description = "A central hub for ScottyLabs Labrador documentations"
 
 [[membership]]
 timeframe = "2026-2027"
-leads = ["Yuxiang-Huang"]
+leads = ["Yuxiang-Huang, Hana Benko"]
 
 [[membership.members]]
 github-username = "Yuxiang-Huang"
@@ -17,3 +17,6 @@ title = "Head of Onboarding and Documentation"
 [[membership.members]]
 github-username = "dsnarne"
 title = "Head of Innovation"
+
+github-username = "hanabenko"
+title = "Director of Labrador"
